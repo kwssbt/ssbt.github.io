@@ -1,26 +1,25 @@
+- title: Welcome to ssbt's blog.
 
-  - title: Welcome to ssbt's blog.
+- title: info
+  post_list:
+    - title: Life is coding, and I am debugging it.
+    - title: CS Undergraduate, Class of 2029 @ Beijing University of Posts and Telecommunications
+    - title: Part-time Runner | Casual Foodie
 
-  - title: info
-    entries:
-      - title: Life is coding, and I am debugging it.
-      - title: CS Undergraduate, Class of 2029 @ Beijing University of Posts and Telecommunications
-      - title: Part-time Runner | Casual Foodie
+- title: all posts
+  entries:
+    - layout: list
 
-  - title: all posts
-    entries:
-      - layout: list
+- title: posts by category
+  post_list:
+    category: C++
 
-  - title: posts by category
-    post_list:
-      category: C++
+- title: projects
+  post_list:
+    - title: LeetCode Daily Archive
+      url: https://github.com/kwssbt/Leetcode-daily-question
+    - title: BUPT-Project-Phase-1
+      url: https://github.com/kwssbt/BUPT-Project-Phase-1
 
-  - title: projects
-    post_list:
-      - title: LeetCode Daily Archive
-        url: https://github.com/kwssbt/Leetcode-daily-question
-      - title: BUPT-Project-Phase-1
-        url: https://github.com/kwssbt/BUPT-Project-Phase-1
-  
-  - title: rss
-    url: feed.xml
+- title: rss
+  url: feed.xml
