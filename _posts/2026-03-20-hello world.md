@@ -27,4 +27,4 @@ int main() {
 
 ## 测试图片
 
-![Image](https://github.com/user-attachments/assets/14d3b8f0-6d02-4344-a49c-e8b23a5309d2)
+![Image](/assets/images/Image_1763537764285.jpg)
