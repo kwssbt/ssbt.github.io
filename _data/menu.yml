@@ -17,14 +17,15 @@ entries:
     post_list:
       category: talks
 
-  - title: projects
+  - title: contact me
     entries:
-      - title: Leetcode每日一题记录
-        url: https://github.com/kwssbt/Leetcode-Daily-Archive
-      - title: LeetCode Automata
-        url: https://github.com/kwssbt/LeetCode-Automata#
-      - title: BUPT-Project-Phase-1
-        url: https://github.com/kwssbt/BUPT-Project-Phase-1
+      - title: QQ(3393019220)
+      - title: Email(kakehgarabedian@gmail.com)
+      - title: Github
+        url: https://github.com/kwssbt
+      - title: used Blog
+        url: https://ssbt.lilys.top/
+
 
   - title: rss
     url: /feed.xml
